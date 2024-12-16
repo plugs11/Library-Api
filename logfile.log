@@ -1,5 +1,0 @@
-[GIN-debug] POST   /book/                    --> manan.tola/controllers.CreateBook (4 handlers)
-[GIN-debug] GET    /book/id/:id              --> manan.tola/controllers.GetBookByID (4 handlers)
-[GIN-debug] GET    /book/                    --> manan.tola/controllers.GetBookByID (4 handlers)
-[GIN-debug] PUT    /book/:id                 --> manan.tola/controllers.UpdateBook (4 handlers)
-[GIN-debug] DELETE /book/:id                 --> manan.tola/controllers.DeleteBook (4 handlers)
